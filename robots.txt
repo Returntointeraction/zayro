@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zayroshoop.store/sitemap.xml
